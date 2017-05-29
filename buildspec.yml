@@ -9,4 +9,4 @@ artifacts:
   type: zip
   files:
     - application.py
-	- requirements.txt
+    - requirements.txt
