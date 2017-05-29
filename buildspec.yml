@@ -8,6 +8,5 @@ phases:
 artifacts:
   type: zip
   files:
-    - src/**/*
-    - lib/**/*
     - application.py
+	- requirements.txt
